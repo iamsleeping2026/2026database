@@ -13,7 +13,7 @@
 ## 工作桌 + 三個家
 
 - 📋 GDrive 工作桌：`G:\我的雲端硬碟\2026database\`
-- 🐙 GitHub repo：建立後填入網址
+- 🐙 GitHub repo：`https://github.com/iamsleeping2026/2026database`
 - 📘 Obsidian 駕駛艙：`G:\我的雲端硬碟\secondbrain\2026database\工作筆記.md`
 - 🔥 Firebase 專案：`my-teaching-tools-20260727`
 
