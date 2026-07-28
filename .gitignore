@@ -1,0 +1,17 @@
+# Google Drive 系統檔
+desktop.ini
+*.tmp
+~$*
+
+# 敏感資料
+.env
+*.key
+credentials.*
+
+# 本機代理設定與工作階段資料
+.claude/
+.codex/
+
+# Node.js
+node_modules/
+package-lock.json
